@@ -1,7 +1,7 @@
 # django-redactor
 Django Module for Redactor
 
-To try this, add <var>static</var> folder to <var>redactorjs</var> folder, and place your Redactor II files into <var>redactor</var> directory within this static folder. 
+To try this, add <var>static</var> folder to <var>redactorjs</var> folder, and place your Redactor II files into <var>redactor</var> directory within this static folder. To get Redactor II, visit https://imperavi.com/redactor.
 
 ## Requirements
 
