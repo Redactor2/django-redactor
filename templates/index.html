@@ -1,0 +1,17 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Redactor</title>
+        <meta charset="utf-8">
+
+        {% load staticfiles %}
+        {{ form.media }}
+
+    </head>
+    <body style="margin: 0;">
+    	<div style="width: 70%; margin: auto; padding: 50px;">
+            {{ form }}
+    	</div>
+    </body>
+</html>

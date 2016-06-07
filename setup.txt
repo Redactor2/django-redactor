@@ -1,0 +1,7 @@
+Simple way to run
+
+pip install -r requirements.txt
+./manage.py migrate
+./manage.py runserver
+
+go to http://localhost:8000
